@@ -10,3 +10,17 @@ do
 	done
 echo -e "\n"
 done
+
+: <<'END_COMMENT'
+Output 
+
+Enter n
+4
+* * * * 
+
+* * * * 
+
+* * * * 
+
+* * * * 
+END_COMMENT
